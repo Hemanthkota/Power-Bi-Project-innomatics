@@ -51,8 +51,7 @@ Lack of data-driven insights can lead to:
 - Time Series Analysis
 - Comparative Analysis
 - Presentation & Reporting
-
-*(Tools like Python, Excel, Power BI, or Tableau can be mentioned here if used)*
+-  Power BI
 
 ---
 
@@ -76,7 +75,7 @@ Electric vehicles are a key driver in the transition toward **sustainable and ec
 ---
 
 ## Author
-**Sk. Sameer K. Hemanth**  
+**K. Hemanth**  
 Batch No: 456
 
 ---
