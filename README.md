@@ -74,13 +74,3 @@ Electric vehicles are a key driver in the transition toward **sustainable and ec
 
 ---
 
-## Author
-**K. Hemanth**  
-Batch No: 456
-
----
-
-## Acknowledgments
-Thanks to all data sources and learning platforms that supported this analysis.
-
----
